@@ -1,0 +1,10 @@
+{
+    "name":"Pokenov tyt net!",
+    "short_name":"to4no net!",
+    "icons":[
+        {
+            "src": "assets/ico.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        }]
+}
